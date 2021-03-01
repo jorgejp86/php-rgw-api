@@ -1,6 +1,6 @@
 # php-rgw-api
 
-This lib aims to be a comprehensive PHP SDK for the [Rados Gateway Admin API](http://docs.ceph.com/docs/jewel/radosgw/adminops/).
+This lib aims to be a comprehensive PHP SDK for the [Rados Gateway Admin API](https://docs.ceph.com/en/latest/radosgw/adminops/).
 
 ## Installation
  
